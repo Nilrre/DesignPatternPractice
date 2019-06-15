@@ -1,0 +1,9 @@
+FACTORY PATTERN
+
+PROS
+- Loose Coupling
+- Segregation of Responsibilities
+- Maintainable
+
+CONS
+- 

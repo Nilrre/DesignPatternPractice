@@ -1,4 +1,4 @@
-SINGLETON
+SINGLETON PATTERN
 
 PROS
 - Easy to debug
@@ -7,5 +7,6 @@ PROS
 
 CONS
 - Does not follow the single responsibility principle
-- Singletons hide dependencies (when unit testing you should derive your singleton from an interface to allow dependency injections) 
+- Singletons hide dependencies 
+- When Testing you test the singleton as well(when unit testing you should derive your singleton from an interface to allow dependency injections) 
 - If not careful there could be possible race conditions
