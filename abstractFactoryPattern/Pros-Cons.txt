@@ -1,0 +1,10 @@
+ABSTRACT FACTORY PATTERN
+
+PROS
+- Products from factories are compatible with each other
+- Avoids tight coupling
+- Single Responsibility Principle
+- Open/Closed Principle
+
+CONS
+- Code may become more complicated than it should be
